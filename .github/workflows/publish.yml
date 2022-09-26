@@ -17,4 +17,3 @@ jobs:
           registry: docker.pkg.github.com
           repository: YOURNAME/publish-packages/game
           tag_with_sha: true
-/
