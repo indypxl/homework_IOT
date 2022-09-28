@@ -1,0 +1,2 @@
+Een pipeline is een manier om code die veranderd in github automatisch te laten intergaten. Bv: een server opnieuw opstarten en update,Code direct naar de cpu sturen etc.
+Hier door verminderen we de aantal manual tasks dat we moeten doen om bepaalde codes te laten werken.
